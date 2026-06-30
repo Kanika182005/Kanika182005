@@ -1,29 +1,116 @@
-<h1 align="center">Hi 👋, I'm Kanika</h1>
-<h3 align="center">e: B.Tech CSE '28 | Python •web dev | Building, Learning & Deploying</h3>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kanika+Phutela;B.Tech+CSE+Student;Python+Developer;Data+Science+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanika182005&label=Profile%20views&color=0e75b6&style=flat" alt="kanika182005" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanika182005" alt="kanika182005" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kanika%20Phutela&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-- 🔭 I’m currently working on [RFT INTERNSHIP](https://github.com/Kanika182005/rfinternship)
+</div>
 
-- 🌱 I’m currently learning **Web dev**
+---
 
-- 💬 Ask me about **PYTHON LIBRARIES**
+## 🌸 About Me
 
-- 📫 How to reach me **phutela1977@gmail.com**
+🎓 B.Tech CSE Student
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanika phutela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanika phutela" height="30" width="40" /></a>
+💻 Passionate about Programming and Problem Solving
+
+🌱 Currently learning Data Science and Advanced Python
+
+🚀 Interested in Web Development, AI and Open Source
+
+📚 Always exploring new technologies
+
+✨ Fun Fact: Every project I build teaches me something completely new.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,c,mysql,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 Python Libraries
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanika182005&show_icons=true&locale=en&layout=compact" alt="kanika182005" /></p>
+* NumPy
+* Pandas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanika182005&" alt="kanika182005" /></p>
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/kanika-phutela-29b88a32b">
+<img src="https://img.shields.io/badge/LinkedIn-Kanika%20Phutela-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanika182005&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanika182005&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kanika182005&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanika182005&theme=tokyo-night"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kanika182005&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Python Mini Projects
+
+🔹 Data Analysis Projects using Pandas & NumPy
+
+🔹 Web Development Projects using HTML & CSS
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kanika182005&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌸 Thanks for visiting my profile 🌸
+
+"Keep Learning, Keep Building, Keep Growing 🚀"
+
+</div>
+
 
 
 
