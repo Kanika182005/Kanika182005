@@ -43,17 +43,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Kanika%20Phutela-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanika182005&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanika182005&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -71,17 +61,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanika182005&theme=tokyo-night"/>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kanika182005&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
