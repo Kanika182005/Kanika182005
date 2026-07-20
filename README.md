@@ -44,17 +44,6 @@
 </a>
 
 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kanika182005&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 📊 Contribution Graph
