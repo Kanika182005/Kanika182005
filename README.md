@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,c,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,c,mysql,git,github,vscode,javascript,react.js" />
 </p>
 
 ### 📊 Python Libraries
